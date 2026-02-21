@@ -53,8 +53,8 @@
 
 ## 📫 Contato
 
-* GitHub: https://github.com/seuusuario
-* LinkedIn: adicione quando criar
+* GitHub: https://github.com/RafaelAlvesG
+* LinkedIn: https://www.linkedin.com/in/rafael-alves-72b20429b/
 
 ---
 
