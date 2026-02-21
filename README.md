@@ -45,7 +45,7 @@
 ## 📂 O que você vai encontrar aqui
 
 * 📌 Projetos de estudo
-* 📌 Aplicações web simples
+* 📌 Aplicações web
 * 📌 Automação com Python
 * 📌 Evolução do meu aprendizado como dev
 
