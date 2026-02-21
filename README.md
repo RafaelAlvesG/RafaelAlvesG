@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Rafael Alves</h1>
 
-<!--
-**RafaelAlvesG/RafaelAlvesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor Júnior • 🚀 Em evolução constante • 🧠 Focado em soluções práticas
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Transformando aprendizado em projetos reais</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧾 Perfil Profissional
+
+| Área         | Detalhes                                        |
+| ------------ | ----------------------------------------------- |
+| 💼 Nível     | Desenvolvedor Júnior                            |
+| 🎯 Foco      | Desenvolvimento Web e Automação                 |
+| 📚 Estudando | Integração Frontend + Backend                   |
+| 🚀 Objetivo  | Primeira oportunidade profissional na área tech |
+
+---
+
+## 🛠️ Stack Tecnológica
+
+| Categoria     | Tecnologias                     |
+| ------------- | ------------------------------- |
+| 💻 Linguagens | Python, JavaScript              |
+| 🌐 Frontend   | HTML, CSS                       |
+| ⚙️ Interesses | APIs, automação, aplicações web |
+
+---
+
+## 🧠 Sobre mim
+
+| Tema              | Informação                                          |
+| ----------------- | --------------------------------------------------- |
+| 📚 Perfil         | Autodidata, focado em aprender construindo projetos |
+| 🔎 Característica | Curioso, persistente e orientado a solução          |
+| 🎯 Meta           | Evoluir como dev e participar de projetos reais     |
+| 🤝 Aberto a       | Estágio, vaga júnior ou freelas simples             |
+
+---
+
+## 📂 O que você vai encontrar aqui
+
+* 📌 Projetos de estudo
+* 📌 Aplicações web simples
+* 📌 Automação com Python
+* 📌 Evolução do meu aprendizado como dev
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/seuusuario
+* LinkedIn: adicione quando criar
+
+---
+
+<p align="center">
+  ⭐ Sempre aprendendo, sempre evoluindo
+</p>
