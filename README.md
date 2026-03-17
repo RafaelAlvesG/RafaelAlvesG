@@ -28,7 +28,7 @@
 | 💻 Linguagens      | Python, JavaScript                           |
 | 🌐 Frontend        | HTML, CSS                                    |
 | ⚙️ Backend         | Node.js                                      |
-| 🗄️ Banco de Dados | MySQL                                        |
+| 🗄️ Banco de Dados | SQL                                        |
 | 🤖 Automação       | Selenium, Playwright                         |
 | 🔧 Outros          | Scripts de automação, integração de sistemas |
 
