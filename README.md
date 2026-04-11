@@ -1,66 +1,82 @@
 <h1 align="center">Rafael Alves</h1>
 
 <p align="center">
-  💻 Desenvolvedor com foco em automação e aplicações web • 🚀 Evolução contínua
+  💻 Desenvolvedor Fullstack • Backend Focus • Automação & Sistemas
 </p>
 
 <p align="center">
-  <i>Transformando processos manuais em soluções automatizadas e eficientes</i>
+  <i>Criando soluções eficientes, integrando sistemas e automatizando processos</i>
 </p>
 
 ---
 
-## 🧾 Perfil Profissional
+## 🚀 Sobre mim
 
-| Área             | Detalhes                                                                    |
-| ---------------- | --------------------------------------------------------------------------- |
-| 💼 Atuação       | Desenvolvimento e automação de processos                                    |
-| 🤖 Especialidade | Automações web e criação de websites                                        |
-| 🌐 Foco          | Desenvolvimento de aplicações web e scripts de produtividade                |
-| 🚀 Momento       | Desenvolvedor em início de carreira buscando consolidar experiência prática |
+Desenvolvedor fullstack em formação com maior foco em **backend, automação e integração de sistemas**. Possuo experiência prática com projetos utilizando **Python, JavaScript e Node.js**, desenvolvendo APIs, scripts e aplicações voltadas para produtividade e resolução de problemas reais.
+
+Tenho facilidade em aprender novas tecnologias e interesse em construir soluções escaláveis, bem estruturadas e eficientes.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias & Ferramentas
 
-| Categoria          | Tecnologias                                  |
-| ------------------ | -------------------------------------------- |
-| 💻 Linguagens      | Python, JavaScript                           |
-| 🌐 Frontend        | HTML, CSS                                    |
-| ⚙️ Backend         | Node.js                                      |
-| 🗄️ Banco de Dados | SQL                                        |
-| 🤖 Automação       | Selenium, Playwright                         |
-| 🔧 Outros          | Scripts de automação, integração de sistemas |
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github" />
+<br><br>
 
-## 🧠 Sobre mim
+<img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-222222?style=for-the-badge&logo=server&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
-| Tema        | Informação                                                    |
-| ----------- | ------------------------------------------------------------- |
-| 🔎 Perfil   | Desenvolvedor orientado a solução e melhoria contínua         |
-| 🧩 Estilo   | Foco em código limpo, automação e eficiência de processos     |
-| 📈 Objetivo | Evoluir profissionalmente criando soluções úteis e escaláveis |
-| 🤝 Aberto a | Projetos colaborativos, freelas e oportunidades na área tech  |
+</p>
 
 ---
 
-## 📂 O que você vai encontrar aqui
+## ⚡ Principais Atividades
 
-* 🤖 Projetos de automação de testes e tarefas
-* 🌐 Aplicações web
-* 🐍 Scripts em Python e Node.js
-* 📌 Projetos que mostram minha evolução técnica
+- 🔧 Desenvolvimento de APIs e sistemas backend  
+- 🔗 Integração com APIs REST  
+- 🤖 Automação de processos e tarefas  
+- 📊 Manipulação e estruturação de dados em JSON  
+- 🌐 Desenvolvimento fullstack (frontend + backend)  
+
+---
+
+## 📂 Projetos
+
+- 🤖 Automações com Python (Selenium / Playwright)  
+- ⚙️ APIs e serviços backend com Node.js  
+- 🌐 Aplicações completas integrando frontend e backend  
+- 📌 Projetos práticos voltados para resolver problemas reais  
+
+---
+
+## 🧠 Mentalidade
+
+- 🔎 Foco em resolução de problemas  
+- 📈 Evolução constante  
+- 🧩 Código limpo e organizado  
+- ⚙️ Pensamento voltado para eficiência e automação  
 
 ---
 
 ## 📫 Contato
 
-* GitHub: https://github.com/RafaelAlvesG
-* LinkedIn: https://www.linkedin.com/in/rafael-alves-72b20429b/
+<p align="center">
+  <a href="https://github.com/RafaelAlvesG">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-alves-72b20429b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Construindo soluções, automatizando processos e evoluindo a cada projeto
+  ⭐ Construindo sistemas, automatizando processos e evoluindo a cada projeto
 </p>
