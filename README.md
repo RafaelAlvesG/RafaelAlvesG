@@ -20,6 +20,9 @@ I am `Web Automation Lover` 🤖 and `API Integration Enthusiast` 🔗
 ## Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,php,react,flutter,html,css,npm" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,php,react,flutter,html,css,mysql,selenium,npm" />
 </p>
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
