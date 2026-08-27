@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="650">
+</p>
+
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up?</h1>
 
 My name is Rafael, a Fullstack Developer from Brazil <img src="https://flagcdn.com/16x12/br.png" alt="Brazil"> focused on **backend, automation and web systems**.
