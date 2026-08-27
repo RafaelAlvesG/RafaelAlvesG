@@ -23,10 +23,21 @@ I am `Web Automation Lover` 🤖 and `API Integration Enthusiast` 🔗
 
 ## Stack
 
+### Languages & Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,php,react,flutter,html,css,mysql,selenium,npm" />
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,nodejs,mysql,react,flutter" />
 </p>
-<p>
+
+### Automation & Testing
+<p align="left">
+<img src="https://skillicons.dev/icons?i=selenium" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,vscode,aws,npm,androidstudio" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
