@@ -1,82 +1,30 @@
-<h1 align="center">Rafael Alves</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="30px"> What's up?</h1>
 
-<p align="center">
-  💻 Desenvolvedor Fullstack • Backend Focus • Automação & Sistemas
+My name is Rafael and I'm a Fullstack Developer focused on **backend, automation and web systems** 🌍.
+
+I enjoy programming the most when I can automate a repetitive process and turn it into something fast and reliable. Always chasing cleaner code and smarter integrations.
+
+I am `Web Automation Lover` 🤖 and `API Integration Enthusiast` 🔗
+
+- 🔧 Building APIs, automations and integrations
+- 📱 Exploring Flutter & Android Studio
+- 🌱 Always learning new technologies
+- 🤖 I use Claude Code in my workflow
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="profile views"/>
 </p>
 
-<p align="center">
-  <i>Criando soluções eficientes, integrando sistemas e automatizando processos</i>
+## Contact
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rafael-alves-72b20429b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+## Stack
 
-## 🚀 Sobre mim
-
-Desenvolvedor fullstack em formação com maior foco em **backend, automação e integração de sistemas**. Possuo experiência prática com projetos utilizando **Python, JavaScript e Node.js**, desenvolvendo APIs, scripts e aplicações voltadas para produtividade e resolução de problemas reais.
-
-Tenho facilidade em aprender novas tecnologias e interesse em construir soluções escaláveis, bem estruturadas e eficientes.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github" />
-<br><br>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,php,react,flutter,androidstudio,html,css,npm" />
+</p>
 <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-222222?style=for-the-badge&logo=server&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
-</p>
-
----
-
-## ⚡ Principais Atividades
-
-- 🔧 Desenvolvimento de APIs e sistemas backend  
-- 🔗 Integração com APIs REST  
-- 🤖 Automação de processos e tarefas  
-- 📊 Manipulação e estruturação de dados em JSON  
-- 🌐 Desenvolvimento fullstack (frontend + backend)  
-
----
-
-## 📂 Projetos
-
-- 🤖 Automações com Python (Selenium / Playwright)  
-- ⚙️ APIs e serviços backend com Node.js  
-- 🌐 Aplicações completas integrando frontend e backend  
-- 📌 Projetos práticos voltados para resolver problemas reais  
-
----
-
-## 🧠 Mentalidade
-
-- 🔎 Foco em resolução de problemas  
-- 📈 Evolução constante  
-- 🧩 Código limpo e organizado  
-- ⚙️ Pensamento voltado para eficiência e automação  
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/RafaelAlvesG">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-alves-72b20429b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Construindo sistemas, automatizando processos e evoluindo a cada projeto
-</p>
