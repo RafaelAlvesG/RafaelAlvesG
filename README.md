@@ -34,7 +34,7 @@ I am `Web Automation Lover` 🤖 and `API Integration Enthusiast` 🔗
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
-### Tools
+### Tools & Cloud
 <p align="left">
 <img src="https://skillicons.dev/icons?i=github,vscode,aws,npm,androidstudio" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
